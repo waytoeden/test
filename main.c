@@ -10,6 +10,7 @@ int main()
     print("main 6");
     print("main 7");
 
+    print("main xx");
     print("hotfix 1");
     print("main 6");
     print("main 7");
