@@ -5,6 +5,7 @@ int main()
     print("main 1");
     print("main 2");
     print("main 3");
+    print("main 4");
 
     print("feature 1");
     print("feature 2");
