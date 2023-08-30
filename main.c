@@ -6,5 +6,6 @@ int main()
     print("main 2");
     print("main 3");
     print("main 4");
+    print("main 5");
     return 0;
 }
