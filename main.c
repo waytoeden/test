@@ -9,5 +9,7 @@ int main()
     print("main 5");
     print("main 6");
     print("main 7");
+
+    print("main xx");
     return 0;
 }
