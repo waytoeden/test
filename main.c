@@ -8,6 +8,7 @@ int main()
     print("main 4");
     print("main 5");
     print("main 6");
+    print("main 7");
 
     print("hotfix 1");
     print("main 6");
